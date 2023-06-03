@@ -1,0 +1,1 @@
+const test = 'child1';
